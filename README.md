@@ -98,7 +98,7 @@ To run this project, you need to have Docker and Airflow installed. Follow the s
 ## 🚀 Usage
 To use the project, follow these steps:
 
-1. Access the Airflow web interface at `http://localhost:8080`.
+1. Access the Airflow web interface at `http://localhost:8082`.
 2. Trigger the DAG to start the workflow.
 3. Monitor the progress and view the results in the Airflow interface.
 
