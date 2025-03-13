@@ -79,8 +79,8 @@ To run this project, you need to have Docker and Airflow installed. Follow the s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/amazon-sales-forecasting.git
-   cd amazon-sales-forecasting
+   git clone https://github.com/yourusername/amazon-sales-TSAF.git
+   cd amazon-sales-TSAF
    ```
 
 2. Build the Docker image:
@@ -110,5 +110,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ---
 
 ## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. 
 ```
