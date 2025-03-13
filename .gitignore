@@ -176,5 +176,3 @@ cython_debug/
 #virtual environment
 myenv/
 
-#airflow-docker
-airflow-dokcer/
